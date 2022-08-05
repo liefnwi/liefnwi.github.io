@@ -1,0 +1,16 @@
+<nav>
+    {% for item in site.data.navigation %}
+    <div class="navitem">
+        <a class="{% if item.children %}navitem-multilevel{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+        {% if item.children %}
+        <div class="navitem-l2">
+            {% for item2 in item.children %}
+            <div class="navitem">
+                <a href="{{ item2.link }}">{{ item2.name }}</a>
+            </div>
+            {% endfor %}
+        </div>
+        {% endif %}
+    </div>
+    {% endfor %}
+</nav>

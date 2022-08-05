@@ -1,0 +1,18 @@
+- name: Over ons
+  link: /over-ons
+  children:
+    - name: Foo
+      link: /bar
+- name: Verkiezingen 2022
+  link: /
+  children:
+    - name: Foo
+      link: /bar
+- name: Lid worden
+  link: /lid-worden
+- name: Actief bij LIEF
+  link: /actief-bij-lief
+- name: Updates
+  link: /updates.html
+- name: Contact
+  link: /

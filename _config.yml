@@ -1,0 +1,10 @@
+kramdown:
+  input: Kramdown
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
