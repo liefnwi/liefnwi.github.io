@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Updates
 ---
 {% for post in site.posts %}

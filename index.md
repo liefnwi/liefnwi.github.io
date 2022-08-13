@@ -1,5 +1,5 @@
 ---
-layout: sidebar
+layout: multicolumn
 title: Home
 ---
 <article markdown="block">
@@ -21,5 +21,11 @@ Bij LIEF gaat onderwijskwaliteit voor alles. Wij streven dan ook naar decentrali
 
 Kom een keer langs bij onze acties en laat weten wat jou dwars zit of wat je juist waardeert op het Science Park!
 </article>
-<aside>
+<aside class="update_preview" markdown="block">
+{% assign latest_post = site.posts[0] %}
+# {{ latest_post.title }}
+{{ latest_post.content }}
+<div class="update_read_more" markdown="block">
+[Lees verder]({{ latest_post.url }})
+</div>
 </aside>

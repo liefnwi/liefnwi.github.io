@@ -1,5 +1,4 @@
 ---
-layout: default
 title: Over ons
 ---
 ![Een stel LIEFerds op een bankje voor Science Park](/assets/imgs/groepsfotobreed-1.jpg)

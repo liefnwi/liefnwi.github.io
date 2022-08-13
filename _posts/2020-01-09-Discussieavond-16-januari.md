@@ -1,0 +1,3 @@
+Universiteiten hebben kennis en kennis is macht – hebben universiteiten dus ook de macht? Ja? Nee? Moeten universiteiten wel macht hebben? Kom hierover discussiëren tijdens de discussieavond!
+
+Voor als je nog niet eerder bent gekomen: tijdens deze avond discussiëren we, onder leiding van een voorzitter en aan de hand van een aantal stellingen, over één bepaald onderwerp. Iedereen is welkom – je hoeft geen sterke mening te hebben, je in te lezen of graag aan het woord te zijn. Kom je liever luisteren naar verschillende standpunten of vertel je graag wat je vind? Kom dan 16 januari om 18 uur ’s avonds naar lokaal A1.04!

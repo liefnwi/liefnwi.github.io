@@ -1,12 +1,38 @@
 <nav>
+	<label for="menu_toggle"><span class="label"></span></label>
+	<input id="menu_toggle" type="checkbox">
+    {% assign page_url = page.url | remove: ".html" %}
     {% for item in site.data.navigation %}
+	{% assign is_current = false %}
+	{% if page_url == item.link %}
+		{% assign is_current = true %}
+	{% endif %}
+
+	{% for item2 in item.children %}
+		{% assign first_char = item2.link | slice: 0 %}
+		{% if first_char == "/" %}
+			{% assign total_link = item2.link %}
+		{% else %}
+			{% assign total_link = item.link | append: item2.link %}
+		{% endif %}
+		{% if page_url == total_link %}
+			{% assign is_current = true %}
+		{% endif %}
+	{% endfor %}
+
     <div class="navitem">
-        <a class="{% if item.children %}navitem-multilevel{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
+        <a class="{% if is_current %}navitem-current{% endif %}{% if item.children %} navitem-multilevel{% endif %}" href="{{ item.link }}">{{ item.name }}</a>
         {% if item.children %}
         <div class="navitem-l2">
             {% for item2 in item.children %}
-            <div class="navitem">
-                <a href="{{ item2.link }}">{{ item2.name }}</a>
+                <div class="navitem">
+                {% assign c = item2.link | slice: 0 %}
+                {% if c  == "/" %}
+					{% assign total_link = item2.link %}
+                {% else %}
+					{% capture total_link %}{{ item.link }}{{ item2.link }}{% endcapture %}
+                {% endif %}
+				<a class="{% if page_url == total_link %}navitem-current{% endif %}" href="{{ total_link }}">{{ item2.name }}</a>
             </div>
             {% endfor %}
         </div>
