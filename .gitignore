@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+# Sadly we can't guarantee that the same versions of things are available
+# (i.e. github actions uses an old version of ruby)
+Gemfile.lock
+.bundle
