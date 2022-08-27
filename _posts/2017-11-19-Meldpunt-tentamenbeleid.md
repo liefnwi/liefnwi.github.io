@@ -1,0 +1,1 @@
+Afgelopen april is LIEF langs tentamenzalen gegaan om pennen en flyers uit te delen, om zo tentamenklachten te horen en deze daarna aan te kaarten bij de faculteit. Gelukkig is hier nu ook een centraal meldpunt voor opgezet! Zie <http://meldpunt-tentamenbeleid.nl/>

@@ -7,14 +7,16 @@
       link: geschiedenis
     - name: Belangrijke documenten
       link: belangrijke-documenten
+    - name: Besturen
+      link: besturen
+    - name: Fracties
+      link: fracties
     - name: Ereleden
       link: ereleden
     - name: Pijlers
       link: pijlers
     - name: In de raad
       link: in-de-raad
-- name: Verkiezingen 2022
-  link: /
 - name: Lid worden
   link: /lid-worden
 - name: Actief bij LIEF

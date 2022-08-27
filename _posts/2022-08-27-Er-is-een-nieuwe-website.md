@@ -1,0 +1,1 @@
+Misschien heb je het nog niet gemerkt, aangezien het een redelijke (al zeg ik het zelf) kopie is van de oude website, maar er is een nieuwe website! Het kan zo zijn dat er nog ergens een kapotte link rondzwerft of dat je nog iets mist; als dat zo is, stuur ons dan alsjeblieft een mailtje: <bestuur@liefvoorjou.nl>.
