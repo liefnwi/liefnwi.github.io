@@ -13,6 +13,9 @@ Wil je niet direct lid worden van LIEF, maar wel betrokken worden bij acties of 
 
 <iframe loading="lazy" src="https://docs.google.com/forms/d/e/1FAIpQLSdLDo2EBgTp7kR8gacf_laSg5HhhrAmXQCK9qlQXkup9flvVg/viewform?embedded=true" marginheight="0" marginwidth="0" width="100%" height="1080" frameborder="0">Loading…</iframe>
 
+
+#### Betaal hieronder direct je contributie
+
 <div id="smart-button-container">
       <div style="text-align: center;">
         <div id="paypal-button-container"></div>
