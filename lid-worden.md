@@ -18,7 +18,7 @@ Wil je niet direct lid worden van LIEF, maar wel betrokken worden bij acties of 
         <div id="paypal-button-container"></div>
       </div>
     </div>
-  <script src="https://www.paypal.com/sdk/js?client-id=AaxAceY43geWZWSXMAaqA2vgIKuYK5_3oM00Nfu64xxFc0moW2X_KA6dm4EJQEeUDLB9gTbfr12DFmYv&enable-funding=venmo&currency=EUR" data-sdk-integration-source="button-factory"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=AWPo3UNw1aofTXqz19h1co1JhT4IdeEGWh9cPvT1LkGoEAUoq4Z3vThMXe5PdxV-Dv1XHi4DkWsk87XL&enable-funding=venmo&currency=EUR" data-sdk-integration-source="button-factory"></script>
   <script>
     function initPayPalButton() {
       paypal.Buttons({
