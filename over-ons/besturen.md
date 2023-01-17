@@ -7,6 +7,17 @@ Als bestuur van LIEF ben je naast de bekende ludieke acties op het Science Park 
 
 Zou je zelf wel bestuur willen doen? Check dan de [Actief bij Lief](/actief-bij-lief) pagina voor meer informatie!
 
+### Bestuur 2023
+<div class="multicolumn">
+<div markdown="block">
+* Stan Fris (voorzitter)
+* Jessica Bakker (secretaris)
+* Robin Slot (penningmeester)
+* Chris de Hart (commissaris extern)
+</div>
+<div markdown="block"></div>
+</div>
+
 ### Bestuur 2022
 <div class="multicolumn">
 <div markdown="block">
@@ -185,4 +196,3 @@ Zou je zelf wel bestuur willen doen? Check dan de [Actief bij Lief](/actief-bij-
 ![Bestuursfoto 2011](/assets/imgs/bestuur2011.png)
 </div>
 </div>
-
