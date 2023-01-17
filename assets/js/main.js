@@ -1,4 +1,5 @@
 let lastScrollPosition = 0;
+let mobileMenu = false;
 
 document.addEventListener("DOMContentLoaded", () => {
     let logoElem = document.getElementById("logo");
@@ -21,4 +22,12 @@ window.addEventListener("scroll", (event) => {
     }
 
     lastScrollPosition = window.scrollY;
+});
+
+document.querySelector(".navitem-multilevel").addEventListener("click", (event) => {
+    if (event.pointerType === "touch" && !mobileMenu) {
+        event.preventDefault(); 
+        mobileMenu = true; 
+        document.querySelector(".navitem-l2").style.display = "block";
+    }
 });
