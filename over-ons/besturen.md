@@ -15,8 +15,9 @@ Zou je zelf wel bestuur willen doen? Check dan de [Actief bij Lief](/actief-bij-
 * Robin Slot (penningmeester)
 * Chris de Hart (commissaris extern)
 </div>
-<div markdown="block"></div>
+<div markdown="block">
 ![Bestuursfoto 2023](/assets/imgs/bestuur2023.jpg)
+</div>
 </div>
 
 ### Bestuur 2022
