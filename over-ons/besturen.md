@@ -16,6 +16,7 @@ Zou je zelf wel bestuur willen doen? Check dan de [Actief bij Lief](/actief-bij-
 * Chris de Hart (commissaris extern)
 </div>
 <div markdown="block"></div>
+![Bestuursfoto 2023](/assets/imgs/bestuur2023.jpg)
 </div>
 
 ### Bestuur 2022
