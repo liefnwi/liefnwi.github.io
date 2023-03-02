@@ -1,9 +1,18 @@
 let lastScrollPosition = 0;
+let mobileMenu = false;
 
 document.addEventListener("DOMContentLoaded", () => {
     let logoElem = document.getElementById("logo");
     let logoHeight = logoElem.getBoundingClientRect().height;
     window.logoDefaultHeight = logoHeight;
+
+    document.querySelector(".navitem-multilevel").addEventListener("click", (event) => {
+        if (event.pointerType === "touch" && !mobileMenu) {
+            event.preventDefault();
+            mobileMenu = true;
+            document.querySelector(".navitem-l2").style.display = "block";
+        }
+    });
 });
 
 window.addEventListener("scroll", (event) => {
