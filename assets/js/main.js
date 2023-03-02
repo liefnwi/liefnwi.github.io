@@ -6,10 +6,15 @@ document.addEventListener("DOMContentLoaded", () => {
     let logoHeight = logoElem.getBoundingClientRect().height;
     window.logoDefaultHeight = logoHeight;
 
-    document.querySelector(".navitem-multilevel").addEventListener("click", (event) => {
-        if (event.pointerType === "touch" && !mobileMenu) {
-            event.preventDefault();
+    document.querySelector(".navitem-multilevel").addEventListener("pointerdown", (event) => {
+        if (event.pointerType === "touch") {
             mobileMenu = true;
+        }
+    });
+
+    document.querySelector(".navitem-multilevel").addEventListener("click", (event) => {
+        if (mobileMenu) {
+            event.preventDefault();
             document.querySelector(".navitem-l2").style.display = "block";
         }
     });
