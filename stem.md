@@ -3,7 +3,7 @@ title: Verkiezingen 2023
 ---
 # Verkiezingen 2023
 
-Van 8 t/m 12 mei kun je weer stemmen voor de [studentenraadsverkiezingen van de UvA](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen). Op deze pagina vind je alle informatie over LIEF. **Je kan stemmen op [stem.uva.nl](https://stem.uva.nl)**.
+Van 8 t/m 12 mei kun je weer stemmen voor de [studentenraadsverkiezingen van de UvA](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen). Op deze pagina vind je alle informatie over LIEF. **Je kan stemmen op [stem.uva.nl](http://stem.uva.nl)**.
 
 ## Onze plannen
 
