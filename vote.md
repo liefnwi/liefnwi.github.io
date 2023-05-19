@@ -5,7 +5,7 @@ title: 2023 student council elections
 
 From May 16 to 20 you can once again vote in the [UvA student council elections](https://student.uva.nl/en/topics/voting-during-the-student-council-elections). On this page you can find information about LIEF. **You can vote by visiting [stem.uva.nl](http://stem.uva.nl)**.
 
-## Onze plannen
+## Our plans
 
 ### Education quality
 
