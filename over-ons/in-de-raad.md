@@ -12,8 +12,6 @@ LIEF doet al sinds 2009 mee aan de verkiezingen en is al jaren de grootste parti
 
 Zou jij je dus volgend jaar willen inzetten voor een beter FNWI via de Facultaire Studentenraad? Schroom dan niet om te solliciteren! Hiervoor hoef je enkel een mailtje naar de sollicitatiecommissie ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)) te sturen en dan zullen zij een gesprek met je inplannen.
 
-Als je nog een beetje vastloopt met het schijven van bovenstaande dingen, maar je hebt wel interesse, stuur dan in ieder geval wel even een bericht naar de sollicitatiecommissie!
-
 We zien je graag terug in de raad van komend jaar!
 </div>
 <div class="note" markdown="block">
