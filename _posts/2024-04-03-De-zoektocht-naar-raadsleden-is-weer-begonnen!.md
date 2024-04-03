@@ -1,2 +1,2 @@
-![Kom bij Lief](/assets/imgs/kom-bij-de-raad-2024.png)
+![Kom bij Lief](assets/imgs/kom_bij_de_raad_2024.png)
 
