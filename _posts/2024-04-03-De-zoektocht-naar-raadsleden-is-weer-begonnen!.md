@@ -1,2 +1,2 @@
-![Promoafbeelding pijlers](/assets/imgs/kom-bij-lief-2024.png)
+![Kom bij Lief](/assets/imgs/kom-bij-de-raad-2024.png)
 
