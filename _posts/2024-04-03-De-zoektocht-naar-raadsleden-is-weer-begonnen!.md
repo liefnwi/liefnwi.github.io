@@ -1,2 +1,2 @@
-Zou jij namens LIEF een jaar de studentenraad in willen? Of is het iets dat je wel interessant lijkt? Leuk! Kijk [hier](/over-ons/in-de-raad) voor meer informatie.
+![Kom bij Lief](/assets/imgs/kom_bij_de_raad_2024.png)
 
