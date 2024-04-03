@@ -16,7 +16,7 @@ Ook heb je de mogelijkheid om binnen de raad voor een specifieke functie te gaan
 
 #### Solliciteren en de campagneperiode
 
-Het hele jaar door zoeken we mensen die zich willen kandideren voor de raad, maar vooral in het voorjaar komt de campagnemachine op gang. De volgende verkiezingen, voor het raadsjaar 2023/2024, vinden hoogstwaarschijnlijk in mei 2023 plaats. Daarvóór hebben we een campagneperiode, waarin kandidaten zich presenteren aan de studenten en hun plannen uit de doeken doen. Als je gekozen wordt begint dan in september 2023 je raadsjaar.
+Het hele jaar door zoeken we mensen die zich willen kandideren voor de raad, maar vooral in het voorjaar komt de campagnemachine op gang. De volgende verkiezingen, voor het raadsjaar 2024/2025, vinden hoogstwaarschijnlijk in mei 2024 plaats. Daarvóór hebben we een campagneperiode, waarin kandidaten zich presenteren aan de studenten en hun plannen uit de doeken doen. Als je gekozen wordt begint dan in september 2024 je raadsjaar.
 
 Bij LIEF word je uitgebreid begeleid door de campagneperiode. Lief organiseert een aantal campagnebijeenkomsten in de aanloop naar de verkiezingsweek. Hier krijg je aanvullende informatie over de FSR, ga je brainstormen over je speerpunten voor de verkiezingen en je raadsjaar, leer je je mede kandidaten kennen en krijg je een campagnetraining. Er wordt ook gezamenlijk promotiemateriaal geregeld via het bestuur.
 
