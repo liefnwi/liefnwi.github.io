@@ -21,7 +21,6 @@ Iedereen hoort zich thuis te voelen op de FNWI. Daarom willen we dat ook mensen 
 
 Ook dit jaar komt LIEF weer met een lijst enthousiaste mensen!
 
-![1: Kasper](/assets/imgs/verkiezingen2023/1_kasper.jpg)
-![2: Robin](/assets/imgs/verkiezingen2023/2_robin.jpg)
-![3: Chris](/assets/imgs/verkiezingen2023/3_chris.jpg)
-![4: Melanie](/assets/imgs/verkiezingen2023/4_melanie.jpg)
+![1: Michelle](/assets/imgs/verkiezingen2024/1Michelle.png)
+
+
