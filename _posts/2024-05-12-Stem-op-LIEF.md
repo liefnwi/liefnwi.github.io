@@ -1,6 +1,6 @@
 It is possible to vote for the student coundil on the FNWI!
 
-LIEF has a great list of candidates on who you can vote! The list of candidates can be found [here](/stem.md)!
+LIEF has a great list of candidates on who you can vote! The list of candidates can be found [here](/stem)!
 
 You can vote on [uva.digitaleverkiezing.nl](https://uva.digitaleverkiezing.nl).
 
