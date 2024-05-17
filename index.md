@@ -3,7 +3,7 @@ layout: multicolumn
 title: Home
 ---
 <article markdown="block">
-**WELKOM BIJ LIEF**
+**WELKOM BIJ STUDENTENPARTIJ LIEF**
 
 LIEF is een studentenpartij die alleen aanwezig is op het Science Park. Ons doel is om binnen de universiteit de belangen van alle bètastudenten te behartigen. LIEF is er voor iedere student.
 
