@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+
+  web:
+    image: jekyll/jekyll
+    volumes:
+      - type: bind
+        source: .
+        target: /srv/jekyll
+    ports:
+      - '127.0.0.1:4000:4000'
+    command: jekyll serve
