@@ -22,7 +22,6 @@ Iedereen hoort zich thuis te voelen op de FNWI. Daarom willen we dat ook mensen 
 Ook dit jaar komt LIEF weer met een lijst enthousiaste mensen!
 
 ![1: Michelle](/assets/imgs/verkiezingen2024/1Michelle.png)
-![2: Jippe](/assets/imgs/verkiezingen2024/2Jippe.png)
 ![3: Minqiu](/assets/imgs/verkiezingen2024/3Minqiu.png)
 ![4: Janne](/assets/imgs/verkiezingen2024/4Janne.png)
 ![5: Tim](/assets/imgs/verkiezingen2024/5Tim.png)
