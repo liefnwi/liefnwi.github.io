@@ -7,6 +7,33 @@ Als bestuur van LIEF ben je naast de bekende ludieke acties op het Science Park 
 
 Zou je zelf wel bestuur willen doen? Check dan de [Actief bij Lief](/actief-bij-lief) pagina voor meer informatie!
 
+### Bestuur 2025
+<div class="multicolumn">
+<div markdown="block">
+* Michelle Magiera (voorzitter)
+* Tim de Groot (secretaris)
+* Minqiu Korevaar (penningmeester)
+* Mitch Boontjes (commissaris activiteiten)
+</div>
+<div markdown="block">
+<!-- ![Bestuursfoto 2025](/assets/imgs/bestuur2023.jpg) -->
+</div>
+</div>
+
+
+### Bestuur 2024
+<div class="multicolumn">
+<div markdown="block">
+* Robin van Straaten (voorzitter)
+* Janne van Asselt (secretaris)
+* Sasha van der Linden (penningmeester)
+</div>
+<div markdown="block">
+<!-- ![Bestuursfoto 2024](/assets/imgs/bestuur2023.jpg) -->
+</div>
+</div>
+
+
 ### Bestuur 2023
 <div class="multicolumn">
 <div markdown="block">
