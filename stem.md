@@ -1,7 +1,7 @@
 ---
-title: Verkiezingen 2024
+title: Verkiezingen 2025
 ---
-# Verkiezingen 2024
+# Verkiezingen 2025
 
 Van 13 t/m 17 mei kun je weer stemmen voor de [studentenraadsverkiezingen van de UvA](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen). Op deze pagina vind je alle informatie over LIEF. **Je kan stemmen op [stem.uva.nl](http://stem.uva.nl)**.
 
