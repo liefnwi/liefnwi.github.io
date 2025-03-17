@@ -22,11 +22,11 @@ module Jekyll
     end
 
     def locale_file_exists_in_current_dir(file_name)
-        return File.exists?(File.join(File.dirname(__FILE__),file_name))
+        return File.exist?(File.join(File.dirname(__FILE__),file_name))
     end
 
     def locale_exists_in_locales_dir(file_name)
-        return File.exists?(File.join('../_locales/',file_name))
+        return File.exist?(File.join('../_locales/',file_name))
     end
   end
 end
