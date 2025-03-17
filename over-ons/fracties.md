@@ -5,10 +5,42 @@
 
 De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van de FNWI mogen vertegenwoordigen. Wil je meer weten over wat het inhoudt om in de fractie te zitten? Check dan de [Actief bij Lief](/actief-bij-lief)-pagina.
 
+### Fractie 2024-2025
+<div class="multicolumn">
+<div markdown="block">
+* Michelle Magiera (Secretaris)
+* Jippe van Roon
+* Minqiu Korevaar
+* Janne van Asselt (Dagelijks bestuur)
+* Tim de Groot (Penningmeester)
+* Mitch Boontjes
+* Robin Waccano
+* Fay Heemskerk (Vicevoorzitter)
+</div>
+<div markdown="block">
+<!-- ![Fractiefoto 2022-2023](/assets/imgs/fractie2022-2023.png) -->
+</div>
+</div>
+
+
+### Fractie 2023-2024
+<div class="multicolumn">
+<div markdown="block">
+* Kasper Mooijaart
+* Robin van Straaten
+* Chris de Hart
+* Melanie Kool
+</div>
+<div markdown="block">
+<!-- ![Fractiefoto 2022-2023](/assets/imgs/fractie2022-2023.png) -->
+</div>
+</div>
+
+
 ### Fractie 2022-2023
 <div class="multicolumn">
 <div markdown="block">
- * Stan Fris (voorzitter)
+ * Stan Fris (Voorzitter)
  * Jessica Bakker
  * Damian Piersma
  * Melanie Kool
@@ -58,7 +90,7 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2019-2020
 <div class="multicolumn">
 <div markdown="block">
- * Anne-Ruth Meijer (voorzitter)
+ * Anne-Ruth Meijer (Voorzitter)
  * Ilya Janssen
  * Daan Rademaekers
  * Jolein Rau
@@ -78,11 +110,11 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2018-2019
 <div class="multicolumn">
 <div markdown="block">
- * Willemijn Beks (voorzitter)
+ * Willemijn Beks (Voorzitter)
  * Feline Lindeboom
  * Simon Wittkamp
  * Casper van Eijden
- * Nina Wagenaar (vicevoorzitter)
+ * Nina Wagenaar (Vicevoorzitter)
  * Marthijn Brehm
  * Yoshua Maas
 </div>
@@ -114,9 +146,9 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2016-2017
 <div class="multicolumn">
 <div markdown="block">
- * Esther de Boer (voorzitter)
+ * Esther de Boer (Voorzitter)
  * Noa Visser (CSR-afgevaardigde)
- * Menno van Gameren (vicevoorzitter)
+ * Menno van Gameren (Vicevoorzitter)
  * Richard Broersen
  * Karlijn Limpens
  * Nick Nauta
@@ -133,7 +165,7 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2015-2016
 <div class="multicolumn">
 <div markdown="block">
- * Micha de Groot (voorzitter)
+ * Micha de Groot (Voorzitter)
  * Sybrig Smit
  * Reimer van den Hoek
  * Ivo de Klerk
@@ -147,9 +179,9 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2014-2015
 <div class="multicolumn">
 <div markdown="block">
- * Jonas Lodewegen (voorzitter)
- * Dominique van Poorten (vicevoorzitter)
- * Thomas Adrian (secretaris)
+ * Jonas Lodewegen (Voorzitter)
+ * Dominique van Poorten (Vicevoorzitter)
+ * Thomas Adrian (Secretaris)
  * Tim Hoogeveen
  * Jorn Peters
  * Gerben Yntema
@@ -167,8 +199,8 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2013-2014
 <div class="multicolumn">
 <div markdown="block">
- * Emma Boumans (voorzitter)
- * Stefan LaRooij (secretaris)
+ * Emma Boumans (Voorzitter)
+ * Stefan LaRooij (Secretaris)
  * Kyah Smaal (CSR-afgevaardigde)
  * Felicio Gordilho Fernandes
  * Kris Kok
@@ -188,7 +220,7 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
  * Kyah Smaal
  * Max van den Berk
  * Ysbrand Galama
- * Emiel Woutersen (vicevoorzitter)
+ * Emiel Woutersen (Vicevoorzitter)
  * Tim Peute
 </div>
 <div markdown="block">
@@ -200,11 +232,11 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2011-2012
 <div class="multicolumn">
 <div markdown="block">
- * Jasper van Enk (voorzitter)
+ * Jasper van Enk (Voorzitter)
  * Sanne Kruijt (CSR-afgevaardigde)
  * Rik van Dijk
  * Els van der Roest
- * Cas Grupstra (secretaris FSR)
+ * Cas Grupstra (Secretaris)
  * Devi Brands
  * Idelès Kaandorp
 </div>
@@ -216,10 +248,10 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2010-2011
 <div class="multicolumn">
 <div markdown="block">
- * Danne Elbers (voorzitter)
+ * Danne Elbers (Voorzitter)
  * Christiaan Mul
  * Helmer Gudde
- * Yuri Gotoh (secretaris)
+ * Yuri Gotoh (Secretaris)
  * Bartjan Sonneveld (CSR-afgevaardigde)
 </div>
 <div markdown="block">
@@ -230,8 +262,8 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 ### Fractie 2009-2010
 <div class="multicolumn">
 <div markdown="block">
- * Jorrit Smit (voorzitter)
- * Anouk Post (secretaris)
+ * Jorrit Smit (Voorzitter)
+ * Anouk Post (Secretaris)
  * Bram Knegt
  * Dorus Stokhof
  * Roelof Lammers
@@ -239,4 +271,3 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 <div markdown="block">
 </div>
 </div>
-
