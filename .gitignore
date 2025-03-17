@@ -7,3 +7,4 @@ vendor
 # (i.e. github actions uses an old version of ruby)
 Gemfile.lock
 .bundle
+.vscode/
