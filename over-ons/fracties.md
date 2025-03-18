@@ -14,7 +14,7 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 * Janne van Asselt (Dagelijks bestuur)
 * Tim de Groot (Penningmeester)
 * Mitch Boontjes
-* Robin Waccano
+* Robin Wacanno
 * Fay Heemskerk (Vicevoorzitter)
 </div>
 <div markdown="block">
