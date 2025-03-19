@@ -5,8 +5,8 @@
       link: /over-ons
     - name: Geschiedenis
       link: geschiedenis
-    - name: Belangrijke documenten
-      link: belangrijke-documenten
+    # - name: Belangrijke documenten
+    #   link: belangrijke-documenten
     - name: Besturen
       link: besturen
     - name: Fracties
@@ -17,9 +17,13 @@
       link: pijlers
     - name: In de raad
       link: in-de-raad
-    - name: Partners
-      link: partners
-- name: Verkiezingen 2024
+    - name: Statuten
+      link: /assets/docs/Statuten-Studentenpartij-LIEF.pdf
+    - name: Huishoudelijk Reglement
+      link: /assets/docs/210205_Huishoudelijk_Reglement.pdf
+    # - name: Partners
+    #   link: partners
+- name: Verkiezingen 2025
   link: /stem
 - name: Lid worden
   link: /lid-worden
