@@ -42,7 +42,6 @@ De fractie zijn de mensen die voor Lief in de FSR zitten en dus de studenten van
 <div markdown="block">
  * Stan Fris (Voorzitter)
  * Jessica Bakker
- * Damian Piersma
  * Melanie Kool
  * Daniel López Mendez
  * Daniella Dhingra
