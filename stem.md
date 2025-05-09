@@ -3,7 +3,7 @@ title: Verkiezingen 2025
 ---
 # Verkiezingen 2025
 ![banner](assets/imgs/verkiezingen2025/website_01.jpg)
-*(For the english version of this page, visit: [http://liefvoorjou.nl/vote](http://liefvoorjou.nl/vote))*
+*(For the english version of this page, visit: [http://liefvoorjou.nl/vote](/vote))*
 
 Van vrijdag 9 tot en met vrijdag 16 mei 2025 vinden de [studentenraadsverkiezingen van de UvA](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen) plaats. Op deze pagina vind je alle informatie over de lijst en de plannen van LIEF voor aankomend collegejaar. **Met deze link ga je direct naar het digitale stembureau: [stem.liefvoorjou.nl](http://stem.liefvoorjou.nl)**.
 
@@ -19,7 +19,7 @@ Hier leggen we uit waar we komend jaar aan willen werken.
 
 
 
-## Onze mensen
+<!-- ## Onze mensen
 Voor volgend collegejaar hebben we de volgende kandidaten klaarstaan:
 {% raw %}
 <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
@@ -33,4 +33,4 @@ Voor volgend collegejaar hebben we de volgende kandidaten klaarstaan:
   <div style="padding: 2pt;"><img src="assets/imgs/verkiezingen2025/socials ENkandidaten_08.jpg" width=100%></div>
   <div style="padding: 2pt;"><img src="assets/imgs/verkiezingen2025/socials ENkandidaten_09.jpg" width=100%></div>
 </div>
-{% endraw %}
+{% endraw %} -->

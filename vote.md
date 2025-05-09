@@ -1,25 +1,18 @@
 ---
-title: 2023 student council elections
+title: Student Council elections 2025
 ---
-# 2023 student council elections
+# Student Council elections 2025
+![banner](assets/imgs/verkiezingen2025/website_02.jpg)
+*(Voor de Nederlandse versie van deze pagina, ga naar: [http://liefvoorjou.nl/stem](/stem))*
 
-From May 16 to 20 you can once again vote in the [UvA student council elections](https://student.uva.nl/en/topics/voting-during-the-student-council-elections). On this page you can find information about LIEF. **You can vote by visiting [stem.uva.nl](http://stem.uva.nl)**.
+From Friday May 9th - 16th, the [UvA Student Council elections](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen) are taking place. On this page you find more information about LIEF's candidates and our plans for next academic year. **The following URL brings you to the electronic ballot: [stem.liefvoorjou.nl](http://stem.liefvoorjou.nl)**.
 
 ## Our plans
+This is a short overview of our plans for next year.
 
-### Education quality
-
-LIEF aims to gradually improve the quality of education and will be committed to maintaining grading deadlines and the availability of practice exams. Our goals are making interdisciplinary education more accessible, investing in educational innovation and facilitating more permanent contracts for teachers.
-
-### Flexibility
-LIEF stands for a balanced student life. We aim to abolish unnecessary attendance requirements and advocate making all lectures available online.
-
-### Inclusivity
-Everyone should feel at home at the FNWI. That is why we want people with an unimpeded disability to be able to study and that an active diversity policy is being developed.
-
-## Our people
-
-![1: Kasper](/assets/imgs/verkiezingen2023/1_kasper.jpg)
-![2: Robin](/assets/imgs/verkiezingen2023/2_robin.jpg)
-![3: Chris](/assets/imgs/verkiezingen2023/3_chris.jpg)
-![4: Melanie](/assets/imgs/verkiezingen2023/4_melanie.jpg)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 10px;">
+  <div><h3>Education quality</h3>First and foremost, we are here to learn. The quality of education must therefore be maintained at a high standard. Proper evaluation of teaching is crucial for this, and students are also entitled to feedback. In addition to core courses, students should have the opportunity to further develop themselves through extracurricular subjects and activities.</div>
+  <div><h3>Care for student well-being</h3>Studying can be demanding. When things aren’t going so well, support should be readily accessible. That’s why student psychologists and student counsellors should also be available at Science Park. Especially in cases of study delays, the university has a supportive role to play. We also want to see greater attention paid to social safety.</div>
+  <div><h3>Good facilities</h3>In order to study effectively at Science Park, the facilities must also be properly arranged. We would like to see sufficient study spaces, well-equipped teaching rooms, and an affordable canteen.</div>
+  <div><h3>Strong coparticipation</h3>Students must be informed about, and have a say in, important faculty decisions.</div>
+</div>
