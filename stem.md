@@ -6,7 +6,7 @@ title: Verkiezingen 2025
 
 > For the english version of this page, go to: http://liefvoorjou.nl/vote
 
-Van vrijdag 9 tot en met vrijdag 16 mei 2025 vinden de [studentenraadsverkiezingen van de UvA](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen) plaats. Op deze pagina vind je alle informatie over de lijst en de plannen van LIEF. **Je kan stemmen via [stem.liefvoorjou.nl](http://stem.liefvoorjou.nl)**.
+Van vrijdag 9 tot en met vrijdag 16 mei 2025 vinden de [studentenraadsverkiezingen van de UvA](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen) plaats. Op deze pagina vind je alle informatie over de lijst en de plannen van LIEF voor aankomend collegejaar. **Met deze link ga je direct naar het digitale stembureau: [stem.liefvoorjou.nl](http://stem.liefvoorjou.nl)**.
 
 ## Onze plannen
 Hier leggen we uit waar we komend jaar aan willen werken.
