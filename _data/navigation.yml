@@ -23,8 +23,10 @@
       link: /assets/doc/210205_Huishoudelijk_Reglement.pdf
     # - name: Partners
     #   link: partners
-- name: Verkiezingen 2025
-  link: /stem
+# - name: Verkiezingen 2025
+#   link: /stem
+- name: Namens LIEF in de raad
+  link: /over-ons/in-de-raad
 - name: Lid worden
   link: /lid-worden
 - name: Actief bij LIEF
