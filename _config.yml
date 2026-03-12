@@ -1,3 +1,5 @@
+repository: liefnwi/liefnwi.github.io
+
 defaults:
   - scope:
       path: ""
@@ -12,4 +14,3 @@ defaults:
 
 plugins:
   - jekyll-titles-from-headings
-  - faraday-retry
