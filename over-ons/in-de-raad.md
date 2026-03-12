@@ -14,7 +14,7 @@ Zou jij je dus volgend jaar willen inzetten voor een beter FNWI via de Facultair
  - CV,
  - Motivatiebrief; stel jezelf hierin voor, licht je motivatie toe en benoem een onderwerp waar je in de raad aan zou willen werken.
 
-Solliciteren kan tot uiterlijk *30 maart*, dus wacht niet te lang.
+Solliciteren kan tot uiterlijk **30 maart**, dus wacht niet te lang.
 
 <!-- Hiervoor hoef je enkel een mailtje naar de sollicitatiecommissie ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)) te sturen en dan zullen zij een gesprek met je inplannen. -->
 
@@ -27,7 +27,7 @@ We zien je graag terug in de raad van komend jaar!
 
 -->
 
-Voor diegenen die twijfelen organiseert LIEF ook een informatieavond. Hier krijg je te horen wat er allemaal bij zo'n raadsjaar komt kijken, en kun je ook alle vragen stellen die nog in je hoofd spoken aan een van onze huidige raadsleden. Deze bijeenkomst zal plaatsvinden op *27 maart* om *17:00* in *C3.165*.
+Voor diegenen die twijfelen organiseert LIEF ook een informatieavond. Hier krijg je te horen wat er allemaal bij zo'n raadsjaar komt kijken, en kun je ook alle vragen stellen die nog in je hoofd spoken aan een van onze huidige raadsleden. Deze bijeenkomst zal plaatsvinden op **27 maart** om **17:00** in **C3.165**.
 
 Het is ook altijd mogelijk om een keer een (digitale) kop koffie met een van onze huidige of oud raadsleden te drinken. Op deze manier hoor je uit eerste hand wat het betekent om raadslid te zijn. Stuur hierover gerust een e-mailtje naar [bestuur@liefvoorjou.nl](mailto:bestuur@liefvoorjou.nl). 
 </div>
