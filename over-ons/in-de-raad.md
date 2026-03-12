@@ -11,9 +11,8 @@ De studentenraad van de FNWI wordt ieder jaar democratisch gekozen door de stude
 LIEF doet al sinds 2009 mee aan de verkiezingen en is al jaren de grootste partij van de FNWI. Ons succes komt voort uit de grote hoeveelheid ondersteuning die we bieden aan onze kandidaten. Zo organiseren we voor de verkiezingen een uitgebreide campagnetraining. Daarnaast zorgen we voor een leuke (lieve) groep mensen om mee op te trekken tijdens de verkiezingen waar jij deel uit van kunt maken!
 
 Zou jij je dus volgend jaar willen inzetten voor een beter FNWI via de Facultaire Studentenraad? Schroom dan niet om te solliciteren! Hiervoor kun je een e-mail sturen naar de sollicitatiecommissie naar de sollicitatiecommissie ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)). Zorg ervoor dat je sollicitatie tenminste het volgende bevat:
- - iets
- - nog iets
- - iets anders
+ - CV,
+ - Motivatiebrief; stel jezelf hierin voor, licht je motivatie toe en benoem een onderwerp waar je in de raad aan zou willen werken.
 
 Solliciteren kan tot uiterlijk *30 maart*, dus wacht niet te lang.
 

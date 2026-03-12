@@ -12,3 +12,4 @@ defaults:
 
 plugins:
   - jekyll-titles-from-headings
+  - faraday-retry
