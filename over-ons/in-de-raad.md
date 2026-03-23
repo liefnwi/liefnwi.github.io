@@ -4,29 +4,32 @@ title: In de raad
 prepend_title: true
 ---
 <div markdown="block">
-## A year in the council on behalf of LIEF
+## Een raadsjaar namens LIEF
 
-The FNWI Student Council is democratically elected each year by the students at the faculty. We, LIEF, are once again taking part in the elections this year and are looking for new lovely candidates (you?) who want to dedicate a year to improving education at Science Park. You’ll get a lot out of that year, also known as a council year. You’ll learn to work together with a diverse group of ambitious people, give and receive constructive criticism, and learn how to hold efficient meetings. What’s more, it’s a really fun year and you might even make friends for life 🙂
+De studentenraad van de FNWI wordt ieder jaar democratisch gekozen door de studenten op de faculteit. Wij, LIEF,  doen ook dit jaar weer mee aan de verkiezingen en zoeken nieuwe lieve kandidaten (jij?) die zich een jaar willen inzetten voor het onderwijs op Science Park. Uit dat jaar, ook wel raadsjaar genoemd, zul je een hoop halen. Zo leer je samenwerken met een diverse groep van ambitieuze mensen, geef je en ontvang je opbouwende kritiek en leer je efficiënt vergaderen. Bovendien is het een heel gezellig jaar en maak je wellicht vrienden voor het leven 🙂
 
-LIEF has been participating in the elections since 2009 and has been the largest party at the Faculty of Science for years. Our success stems from the extensive support we offer our candidates. For instance, we organise comprehensive campaign training ahead of the elections. We also ensure there’s a fun (and lovely) group of people to hang out with during the elections – and you can be part of it!
+LIEF doet al sinds 2009 mee aan de verkiezingen en is al jaren de grootste partij van de FNWI. Ons succes komt voort uit de grote hoeveelheid ondersteuning die we bieden aan onze kandidaten. Zo organiseren we voor de verkiezingen een uitgebreide campagnetraining. Daarnaast zorgen we voor een leuke (lieve) groep mensen om mee op te trekken tijdens de verkiezingen waar jij deel uit van kunt maken!
 
-So, would you like to work towards a better FNWI through the Faculty Student Council next year? Don’t hesitate to apply! To do so, please send an email to the selection committee ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)). Make sure your application includes at least the following:
+Zou jij je dus volgend jaar willen inzetten voor een beter FNWI via de Facultaire Studentenraad? Schroom dan niet om te solliciteren! Hiervoor kun je een e-mail sturen naar de sollicitatiecommissie naar de sollicitatiecommissie ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)). Zorg ervoor dat je sollicitatie tenminste het volgende bevat:
  - CV,
- - Cover letter; introduce yourself, explain your motivation and mention a topic you would like to work on within the council.
+ - Motivatiebrief; stel jezelf hierin voor, licht je motivatie toe en benoem een onderwerp waar je in de raad aan zou willen werken.
 
-Applications must be submitted by **30 March** at the latest, so don’t wait too long.
+Solliciteren kan tot uiterlijk **30 maart**, dus wacht niet te lang.
 
-<!-- All you need to do is send an email to the applications committee ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)) and they will schedule an interview with you. -->
-We look forward to seeing you on the council next year!
+<!-- Hiervoor hoef je enkel een mailtje naar de sollicitatiecommissie ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)) te sturen en dan zullen zij een gesprek met je inplannen. -->
 
+We zien je graag terug in de raad van komend jaar!
+</div>
 <div class="note" markdown="block">
-### Still unsure?
-<!-- A year is, of course, a long time, and dedicating a whole year to the student council is no small matter. [This page](https://studentenraad.nl/fnwi/wat-is-de-raad/) briefly explains what the FSR does. You can find more information about what LIEF can do for you [here](/actief-bij-lief).
--->
-For those who are still unsure, LIEF is also organising an information evening. Here, you’ll find out what a year on the council entails, and you’ll be able to ask any questions you might have to one of our current council members. This meeting will take place on the **27th of March** at **17:00** in **C3.165**.
+### Twijfel je nog?
 
-It’s also always possible to have a (virtual) cup of coffee with one of our current or former council members. This way, you’ll hear first-hand what it means to be a council member. Feel free to send an email about this to [bestuur@liefvoorjou.nl](mailto:bestuur@liefvoorjou.nl).
- 
+<!-- Een jaar is natuurlijk veel tijd en het is niet niks om een geheel jaar te besteden aan de studentenraad. Op [deze pagina](https://studentenraad.nl/fnwi/wat-is-de-raad/) wordt kort uitgelegd wat de FSR zoal doet. Meer informatie over wat LIEF voor jou kan betekenen vind je [hier](/actief-bij-lief).
+
+-->
+
+Voor diegenen die twijfelen organiseert LIEF ook een informatieavond. Hier krijg je te horen wat er allemaal bij zo'n raadsjaar komt kijken, en kun je ook alle vragen stellen die nog in je hoofd spoken aan een van onze huidige raadsleden. Deze bijeenkomst zal plaatsvinden op **27 maart** om **17:00** in **C3.165**.
+
+Het is ook altijd mogelijk om een keer een (digitale) kop koffie met een van onze huidige of oud raadsleden te drinken. Op deze manier hoor je uit eerste hand wat het betekent om raadslid te zijn. Stuur hierover gerust een e-mailtje naar [bestuur@liefvoorjou.nl](mailto:bestuur@liefvoorjou.nl). 
 </div>
 
 <!-- TODO verhalen uit de raad -->

@@ -8,6 +8,6 @@ Ben jij geïnteresseerd in de studentenraad, wil je iets veranderen binnen Scien
 
 The [UvA Student Council elections](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen) will take place from Friday 11 to Friday 19 May 2026.
 
-Are you interested in the Student Council, do you want to make a difference within Science Park and represent your fellow students? Then apply to join our list. You can find more information about the elections and how to stand as a candidate on [this page](/en/about-us/on-the-council)
+Are you interested in the Student Council, do you want to make a difference within Science Park and represent your fellow students? Then apply to join our list. You can find more information about the elections and how to stand as a candidate on [this page](/en/about-us/in-the-council)
 
 *If you’re not yet sure whether this is for you, come along to the information evening. Here, you’ll find out what a year on the council entails, and you can also ask any questions you might have to one of our current council members. This meeting will take place on the **27th of March** at **17:00** in **C3.165**.*
