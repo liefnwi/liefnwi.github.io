@@ -14,7 +14,7 @@ Zou jij je dus volgend jaar willen inzetten voor een beter FNWI via de Facultair
  - CV,
  - Motivatiebrief; stel jezelf hierin voor, licht je motivatie toe en benoem een onderwerp waar je in de raad aan zou willen werken.
 
-Solliciteren kan tot uiterlijk **30 maart**, dus wacht niet te lang.
+Solliciteren kan tot uiterlijk **3 april**, dus wacht niet te lang.
 
 <!-- Hiervoor hoef je enkel een mailtje naar de sollicitatiecommissie ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)) te sturen en dan zullen zij een gesprek met je inplannen. -->
 

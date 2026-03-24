@@ -1,6 +1,6 @@
 ---
 layout: multicolumn
-title: In de raad
+title: In the council
 prepend_title: true
 ---
 <div markdown="block">
@@ -14,7 +14,7 @@ So, would you like to work towards a better FNWI through the Faculty Student Cou
  - CV,
  - Cover letter; introduce yourself, explain your motivation and mention a topic you would like to work on within the council.
 
-Applications must be submitted by **30 March** at the latest, so don’t wait too long.
+Applications must be submitted by **April 3rd** at the latest, so don’t wait too long.
 
 <!-- All you need to do is send an email to the applications committee ([soco@liefvoorjou.nl](mailto:soco@liefvoorjou.nl)) and they will schedule an interview with you. -->
 We look forward to seeing you on the council next year!

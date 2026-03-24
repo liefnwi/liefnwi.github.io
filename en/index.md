@@ -14,7 +14,7 @@ For us, studying is more than just following your curriculum. LIEF believes that
 LIEF believes it is important that the faculty is accessible to everyone in the broadest sense of the word. Everyone should feel welcome at our faculty and be able to come here to study.
 
 – Transparency
-At LIEF, the quality of education comes first. We strive to ensure that it is as clear as possible to everyone what they are entitled to. This prevents misunderstandings between lecturers about who is responsible for what. To this end, we want students to be well informed about their rights under the PER and RRVE, or at least where they can find them.
+At LIEF, the quality of education comes first. We strive to ensure that it is as clear as possible to everyone what they are entitled to. This prevents misunderstandings between lecturers about who is responsible for what. To this end, we want students to be well informed about their rights under the TER and RRvE, or at least where they can find them.
 
 Come to one of our events and let us know what’s bothering you or what you appreciate about the Science Park!
 
