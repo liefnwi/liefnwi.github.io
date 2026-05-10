@@ -1,11 +1,11 @@
 ---
-title: Student Council elections 2025
+title: Student Council elections 2026
 ---
-# Student Council elections 2025
-![banner](assets/imgs/verkiezingen2025/website_02.jpg)
+# Student Council elections 2026
+![banner](assets/imgs/verkiezingen2026/Groepsfoto.jpg)
 *(Voor de Nederlandse versie van deze pagina, ga naar: [http://liefvoorjou.nl/stem](/stem))*
 
-From Friday May 9th - 16th, the [UvA Student Council elections](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen) are taking place. On this page you find more information about LIEF's candidates and our plans for next academic year. **The following URL brings you to the electronic ballot: [stem.liefvoorjou.nl](http://stem.liefvoorjou.nl)**.
+From May 11th - 19th, the [UvA Student Council elections](https://student.uva.nl/onderwerpen/studentenraadsverkiezingen) are taking place. On this page you find more information about LIEF's candidates and our plans for next academic year. **The following URL brings you to the electronic ballot: [stem.liefvoorjou.nl](http://stem.liefvoorjou.nl)**.
 
 ## Our plans
 This is a short overview of our plans for next year.
@@ -16,3 +16,18 @@ This is a short overview of our plans for next year.
   <div><h3>Good facilities</h3>In order to study effectively at Science Park, the facilities must also be properly arranged. We would like to see sufficient study spaces, well-equipped teaching rooms, and an affordable canteen.</div>
   <div><h3>Strong coparticipation</h3>Students must be informed about, and have a say in, important faculty decisions.</div>
 </div>
+
+## Our candidates
+The following candidates are ready to represent you next academic year.
+{% raw %}
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 5px;">
+  <div style="padding: 2pt;"><img src="assets/imgs/verkiezingen2026/vivienne.JPG" width="100%"><h3>1. Vivienne</h3>My name is Vivienne, and I have been studying at Science Park for the past four years. During this time, I have noticed how small things can make a big difference in your daily experience as a student: having a good place to study, an affordable meal between classes, whether or not attendance is mandatory, or having the possibility to rewatch a lecture. At the same time, there are also larger issues that affect every student, such as the quality and accessibility of education. That is why I want to dedicate myself next year within the student council to policies that truly reflect the needs of students.</div>
+  <div style="padding: 2pt;"><img src="assets/imgs/verkiezingen2026/evie.JPG" width="100%"><h3>2. Evie</h3>Hii! My name is Evie de Wijs. I’ve been walking around Science Park for four years now, yet it was only in the past year that I became familiar with the Student Council. How long is the grading deadline actually? What are the rules regarding the use of AI? And when will there finally be cheaper sandwiches in the cafeteria? These are the kinds of questions the Student Council can answer or actively works on, while many students are still unaware of its role and impact.<br>
+This year, I want to work on increasing the visibility of the Student Council so that, together, we can build broader support for student interests. In doing so, we can push for innovative education, improved facilities, and more opportunities for every student!.
+</div>
+  <div style="padding: 2pt;"><img src="assets/imgs/verkiezingen2026/amanda.JPG" width="100%"><h3>3. Amanda</h3>My name is Amanda Jansen and I have been studying at Science Park for four years. During my time here, I have come to realise that university is about much more than just attending classes. It is precisely the freedom to develop yourself more broadly that makes studying worthwhile. At the same time, I see that this is not always guaranteed and is sometimes under pressure due to a focus on study efficiency or restrictive regulations. Therefore, I want to dedicate myself this coming year within the student council to policies that do not limit students, but instead invite them to be more than their grades. In particular, I will advocate for more room for internships and research projects within the curriculum, and better support from the university for students who take extra courses or pursue a double degree.</div>
+  <div style="padding: 2pt;"><img src="assets/imgs/verkiezingen2026/elissa.JPG" width="100%"><h3>4. Elissa</h3>Hello hello! My name is Elissa and I am currently also a member of the faculty student council as secretary. During the year it became clear to me that there is still a lot to be done in education at our faculty. Because I consider education for everyone to be extremely important, I want to focus on continuing my current portfolio, namely course evaluations, in the coming academic year.</div>
+  <div style="padding: 2pt;"><img src="assets/imgs/verkiezingen2026/jeroen.JPG" width="100%"><h3>5. Jeroen</h3>Hello! My name is Jeroen and for the past couple of years I've been studying at Science Park, often with a lot of fun.  Throughout these years I've noticed plenty of room for improvements in the provided study materials in different courses and the facilities for students, both at Science Park and the digital environments we all use. This is why I am exited to commit myself to improving these aspects for all students at FNWI in the next academic year, so everyone can maximize their potential here.</div>
+  <div style="padding: 2pt;"><img src="assets/imgs/verkiezingen2026/robin.JPG" width="100%"><h3>6. Robin</h3>Hi, I’m Robin, 26 years old and a student in the Computer Science bachelor’s programme. I’ve now spent almost four years—with a break in between—on the Student Council, and I’d love to get back to work representing students’ interests next year. Personally, I’m mainly interested in issues related to education. This includes, for example, the accessibility of lectures, the evaluation of teaching and support for teaching assistants. I’m also keen to work on strengthening student representation, for instance by maintaining close contact with programme committees to see if they’re experiencing wider issues, or to enable them to exchange information and knowledge.</div>
+</div>
+{% endraw %}
